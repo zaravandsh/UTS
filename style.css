@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+}
+nav{
+    background: rgb(248, 195, 204);
+    height: 50px;
+    width: 100%;
+    line-height: 50px;
+    margin: auto;
+    position: relative; 
+}
+
+body {
+    background-image: url("img/wallpaper.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+}
+footer{ 
+    width: 88%; 
+    margin: auto; 
+    background: rgb(176, 103, 138); 
+    color:black; 
+    line-height: 40px; 
+    padding-left: 2%; 
+}
